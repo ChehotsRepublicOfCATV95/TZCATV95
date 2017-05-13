@@ -1,0 +1,32 @@
+# Rep. of CATV 95
+# DST Rules for the Republic of CATV 95
+Rule RC 1961 1963 - Jun 21 0:00 1:00 D
+Rule RC 1961 1963 - Dec 21 0:00 0    -
+Rule RC 1964 only - Jun 20 0:00 1:00 D
+Rule RC 1964 only - Dec 20 0:00 0    -
+Rule RC 1981 1982 - Jun 21 0:00 1:00 D
+Rule RC 1981 1982 - Dec 21 0:00 0    -
+Rule RC 2016 only - Sep 27 0:00 1:00 D
+Rule RC 2016 only - Nov 10 0:00 0    -
+Rule RC 2017 only - Apr  8 0:00 0:15 D
+Rule RC 2017 only - Apr 17 0:00 0    -
+
+# Zone for the Republic of CATV 95
+Zone Asia/RepCATV -15:55:20 - LMT 1837 Aug 15
+                  -15:55:20 - CMT 1844 Dec 31
+                    8:04:40 - CMT 1928
+                    8:30    - +0830 1932 Mar
+                    7:30    - +0730 1942 May
+                    9:00    - +09   1944 Nov
+                    7:30   RC +0730/+0830 2000 Dec 31 16:00u
+                    8:00    - +08   2003 Nov 20 8:00
+                    8:00 1:00 +08/+09 2004 May 31 8:00
+                    8:00    - +08   2005 May 17 16:00u
+                    7:30    - +0730 2006 Sep 19 16:30u
+                    8:00    - +08   2007 Jun 13
+                  -16:00    - -16   2010 Mar 31 24:00
+                    8:00    - +08   2012 Mar 31 16:00u
+                    7:30    - +0730 2013 May 23 16:30u
+                    8:00    - +08   2013 Jun
+                    8:00    - PST   2015 Apr 21 24:00 # Philippine Standard Time
+                    7:30   RC RCT # Rep. of CATV 95 Standard Time
